@@ -8,7 +8,7 @@
     "email": "dev@jhonatanoliveira.com"
   },
   "scripts": {
-    "dev": "node server.js"
+    "start": "node server.js"
   },
   "license": "MIT",
   "dependencies": {
